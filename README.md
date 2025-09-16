@@ -1,11 +1,11 @@
-### Файлы для работы кастомного пункта контекстного меню Moth.
-
+### Файлы для работы кастомного пункта контекстного меню Moth для WinClean.
+#
 ![Описание изображения](https://i.ibb.co/HcGLzqv/A30168-FE-FE43-4-F44-A750-60846-E7531-F4.png)
 
 
 ![Скачиваний](https://img.shields.io/github/downloads/MartyFiles/Moth/Release/total?style=for-the-badge&label=Скачиваний&color=blue&logo=download)
 
-___
+#
 
 Утилита WinClean доступна подписчикам [MartyPlus](https://t.me/martyfiles/1146).
 
